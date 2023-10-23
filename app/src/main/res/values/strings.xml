@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Practica03_formulario</string>
+    <string name="txtV_nombre">Nombre: </string>
+    <string name="txtV_apellido">Apellido: </string>
+    <string name="txtV_edad">Edad del jugadore: </string>
+    <string name="txtV_posicion">Seleccionar posición: </string>
+    <string name="txtV_seguro">¿Dispone de seguro médico? </string>
+    <string name="Ptxt_nombre"></string>
+    <string name="Ptxt_apellido"></string>
+    <string name="sbD_edad"></string>
+    <string name="rbG_agrupaciones"></string>
+    <string name="rb_delantero">Delantero</string>
+    <string name="rb_centrocampista">Centrocampista</string>
+    <string name="rb_defensa">Defensa</string>
+    <string name="rb_portero">Portero</string>
+    <string name="rbG_seguro"></string>
+    <string name="cb_seguro_si">Sí </string>
+    <string name="cb_seguro_no">No </string>
+    <string name="b_enviar">Enviar</string>
+    <string name="txtV_resumen"></string>
+
+
+
+</resources>
